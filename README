@@ -1,0 +1,19 @@
+# To-Do List App
+
+This repository contains a simple to-do list web application built using HTML, CSS, and JavaScript. The app allows users to add tasks, mark them as completed, and delete them.
+
+## Features
+
+- **Add Task:** Users can enter a task in the input field and click the "Add Task" button to add it to the list.
+- **Complete Task:** Each task in the list has a "Complete" button. Clicking this button toggles the completion status of the task.
+- **Delete Task:** Each task in the list also has a "Delete" button. Clicking this button removes the task from the list.
+
+## How to Use
+
+1. Clone the repository or download the ZIP file.
+2. Open the `index.html` file in a web browser.
+3. Start adding tasks using the input field and the "Add Task" button.
+4. Use the "Complete" and "Delete" buttons to manage tasks.
+
+Feel free to customize and extend the functionality of the app as needed!
+
